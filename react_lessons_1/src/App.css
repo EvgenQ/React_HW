@@ -1,0 +1,15 @@
+.messagetext {
+    border: 1px solid;
+    border-radius: 5px;
+    text-shadow: #FC0 1px 0 10px;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.inputblock {
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    font-size: 25px;
+    box-shadow: 10px 5px 5px rgb(98, 0, 255);
+}
